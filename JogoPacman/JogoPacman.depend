@@ -1,0 +1,2311 @@
+# depslib dependency file v1.0
+1654556892 source:c:\users\camil\downloads\projetopac\load_imagem\load_img.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+
+1653263119 c:\allegro\allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1653263121 c:\allegro\allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1653263125 c:\allegro\allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1653263127 c:\allegro\allegro\include\allegro5\platform\alplatf.h
+
+1653263127 c:\allegro\allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1653263127 c:\allegro\allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1653263126 c:\allegro\allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1653263127 c:\allegro\allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1653263126 c:\allegro\allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1653263127 c:\allegro\allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1653263126 c:\allegro\allegro\include\allegro5\platform\alandroidcfg.h
+
+1653263127 c:\allegro\allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1653263127 c:\allegro\allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1653263127 c:\allegro\allegro\include\allegro5\platform\alunix.h
+
+1653263127 c:\allegro\allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1653263128 c:\allegro\allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+	<limits.h>
+
+1653263128 c:\allegro\allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1653263121 c:\allegro\allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1653263121 c:\allegro\allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1653263122 c:\allegro\allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1653263121 c:\allegro\allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1653263121 c:\allegro\allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1653263122 c:\allegro\allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1653263124 c:\allegro\allegro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1653263124 c:\allegro\allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1653263121 c:\allegro\allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1653263122 c:\allegro\allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1653263122 c:\allegro\allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1653263122 c:\allegro\allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1653263122 c:\allegro\allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1653263122 c:\allegro\allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1653263122 c:\allegro\allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1653263122 c:\allegro\allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1653263122 c:\allegro\allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1653263122 c:\allegro\allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1653263122 c:\allegro\allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1653263123 c:\allegro\allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1653263125 c:\allegro\allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1653263123 c:\allegro\allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1653263123 c:\allegro\allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1653263123 c:\allegro\allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1653263123 c:\allegro\allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1653263123 c:\allegro\allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1653263123 c:\allegro\allegro\include\allegro5\keycodes.h
+
+1653263124 c:\allegro\allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1653263124 c:\allegro\allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1653263123 c:\allegro\allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1653263123 c:\allegro\allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1653263124 c:\allegro\allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1653263124 c:\allegro\allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1653263124 c:\allegro\allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1653263124 c:\allegro\allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1653263124 c:\allegro\allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1653263124 c:\allegro\allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1653263124 c:\allegro\allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1653263124 c:\allegro\allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1653263119 c:\allegro\allegro\include\allegro5\alcompat.h
+
+1653263120 c:\allegro\allegro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1653263120 c:\allegro\allegro\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1492628082 source:c:\users\camil\downloads\projetopac\teclado_audio\main.cpp
+	<stdio.h>
+	<iostream>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	"allegro5/allegro_audio.h"
+	"allegro5/allegro_acodec.h"
+	"Objeto.h"
+
+1653263120 c:\allegro\allegro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1653263120 c:\allegro\allegro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1492048892 c:\users\camil\downloads\projetopac\teclado_audio\objeto.h
+
+1654564526 source:c:\users\camil\downloads\projetopac\jogopacman\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+	"classePirula.h"
+	"classeTijolos.h"
+
+1654563164 source:c:\users\camil\downloads\projetopac\jogopacman\classepirula.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+	"classePirula.h"
+
+1654563822 c:\users\camil\downloads\projetopac\jogopacman\classepirula.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+
+1654563853 source:c:\users\camil\downloads\projetopac\jogopacman\classetijolos.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+	"classeTijolos.h"
+
+1654563822 c:\users\camil\downloads\projetopac\jogopacman\classetijolos.h
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+
+1657591730 source:c:\users\eliez\documents\projetopac\jogopacman\classepirula.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+	"classePirula.h"
+
+1657591730 c:\users\eliez\documents\projetopac\jogopacman\classepirula.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+
+1657591214 source:c:\users\eliez\documents\projetopac\jogopacman\classetijolos.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+	"classeTijolos.h"
+
+1657590912 c:\users\eliez\documents\projetopac\jogopacman\classetijolos.h
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+
+1658974846 source:c:\users\eliez\documents\projetopac\jogopacman\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"classePirula.h"
+	"classeTijolos.h"
+	"classePacman.h"
+	"classeInimigoVermelho.h"
+	"inimigoAzul.h"
+	"inimigoRosa.h"
+	"inimigoLaranja.h"
+	<time.h>
+	<string>
+
+1615199857 c:\allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1615199857 c:\allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1615199857 c:\allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1615199857 c:\allegro\include\allegro5\platform\alplatf.h
+
+1615199857 c:\allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199857 c:\allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199857 c:\allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199857 c:\allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199857 c:\allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199857 c:\allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1615199857 c:\allegro\include\allegro5\platform\alandroidcfg.h
+
+1615199857 c:\allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1615199857 c:\allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1615199857 c:\allegro\include\allegro5\platform\alunix.h
+
+1615199857 c:\allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199857 c:\allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+	<limits.h>
+
+1615199857 c:\allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1615199857 c:\allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1615199857 c:\allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1615199857 c:\allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1615199857 c:\allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1615199857 c:\allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1615199857 c:\allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1615199857 c:\allegro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1615199857 c:\allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1615199857 c:\allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1615199857 c:\allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1615199857 c:\allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1615199857 c:\allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1615199857 c:\allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1615199857 c:\allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1615199857 c:\allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1615199857 c:\allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1615199857 c:\allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1615199857 c:\allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1615199857 c:\allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1615199857 c:\allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1615199857 c:\allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1615199857 c:\allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1615199857 c:\allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1615199857 c:\allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1615199857 c:\allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 c:\allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1615199857 c:\allegro\include\allegro5\keycodes.h
+
+1615199857 c:\allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 c:\allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 c:\allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1615199857 c:\allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1615199857 c:\allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1615199857 c:\allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1615199857 c:\allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1615199857 c:\allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1615199857 c:\allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1615199857 c:\allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1615199857 c:\allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 c:\allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1615199857 c:\allegro\include\allegro5\alcompat.h
+
+1615199857 c:\allegro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1615199857 c:\allegro\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1615199857 c:\allegro\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1658535454 source:c:\users\eliez\documents\projetopac\jogopacman\classepacman.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+	"classePacman.h"
+
+1658535454 c:\users\eliez\documents\projetopac\jogopacman\classepacman.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+
+1655044046 source:c:\users\eliez\documents\projetopac\jogopacman\classefundopreto.cpp
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+	"classeFundoPreto.h"
+
+1655043811 c:\users\eliez\documents\projetopac\jogopacman\classefundopreto.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+
+1615199857 c:\allegro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1615199857 c:\allegro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1615199857 c:\allegro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1656683802 source:c:\users\eliez\documents\projetopac\jogopacman\classeinimigos.cpp
+	"classeInimigos.h"
+
+1656683802 c:\users\eliez\documents\projetopac\jogopacman\classeinimigos.h
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"classePacman.h"
+
+1655895965 source:c:\users\eliez\documents\projetopac\jogopacman\classeinimigoamarelo.cpp
+
+1655895944 source:c:\users\eliez\documents\projetopac\jogopacman\classeinimigoazul.cpp
+
+1655895914 source:c:\users\eliez\documents\projetopac\jogopacman\classeinimigorosa.cpp
+
+1658268230 source:c:\users\eliez\documents\projetopac\jogopacman\classeinimigovermelho.cpp
+	"classeInimigoVermelho.h"
+
+1658535454 c:\users\eliez\documents\projetopac\jogopacman\classeinimigovermelho.h
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"classePacman.h"
+
+1656169216 source:c:\users\eliez\documents\projetopac\jogopacman\execucao_do_projeto.cpp
+
+1656181774 source:c:\users\eliez\documents\projetopac\jogopacman\inimigoamarelo.cpp
+
+1658241552 source:c:\users\eliez\documents\projetopac\jogopacman\inimigorosa.cpp
+	"inimigoRosa.h"
+
+1658269662 source:c:\users\eliez\documents\projetopac\jogopacman\inimigoazul.cpp
+	"inimigoAzul.h"
+
+1658269662 c:\users\eliez\documents\projetopac\jogopacman\inimigoazul.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<iostream>
+	"classePacman.h"
+
+1658241608 c:\users\eliez\documents\projetopac\jogopacman\inimigorosa.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<iostream>
+	"classePacman.h"
+
+1658253954 c:\users\eliez\documents\projetopac\jogopacman\inimigolaranja.h
+	<allegro5/allegro5.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"classePacman.h"
+
+1615199857 c:\allegro\include\allegro5\allegro5.h
+	"allegro.h"
+
+1658253954 source:c:\users\eliez\documents\projetopac\jogopacman\inimigolaranja.cpp
+	"inimigoLaranja.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\platform\alplatf.h
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\platform\alandroidcfg.h
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\platform\alunix.h
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+	<limits.h>
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\color.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\config.h
+	"allegro5/file.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\error.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\keycodes.h
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\alcompat.h
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\allegro5.h
+	"allegro.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1615199858 c:\users\eliez\documents\projetopac\allegroarquivos\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1658268230 source:c:\users\camil\onedrive\área de trabalho\projetopac\jogopacman\classeinimigovermelho.cpp
+	"classeInimigoVermelho.h"
+
+1658535454 c:\users\camil\onedrive\área de trabalho\projetopac\jogopacman\classeinimigovermelho.h
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"classePacman.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\platform\alplatf.h
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\platform\alandroidcfg.h
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\platform\alunix.h
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+	<limits.h>
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\color.h
+	"allegro5/base.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\config.h
+	"allegro5/file.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\error.h
+	"allegro5/base.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\keycodes.h
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\alcompat.h
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1658535454 c:\users\camil\onedrive\área de trabalho\projetopac\jogopacman\classepacman.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+
+1658535454 source:c:\users\camil\onedrive\área de trabalho\projetopac\jogopacman\classepacman.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+	"classePacman.h"
+
+1657591730 source:c:\users\camil\onedrive\área de trabalho\projetopac\jogopacman\classepirula.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+	"classePirula.h"
+
+1657591730 c:\users\camil\onedrive\área de trabalho\projetopac\jogopacman\classepirula.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+
+1657591214 source:c:\users\camil\onedrive\área de trabalho\projetopac\jogopacman\classetijolos.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+	"classeTijolos.h"
+
+1657590912 c:\users\camil\onedrive\área de trabalho\projetopac\jogopacman\classetijolos.h
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+
+1658269662 source:c:\users\camil\onedrive\área de trabalho\projetopac\jogopacman\inimigoazul.cpp
+	"inimigoAzul.h"
+
+1658269662 c:\users\camil\onedrive\área de trabalho\projetopac\jogopacman\inimigoazul.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<iostream>
+	"classePacman.h"
+
+1658253954 source:c:\users\camil\onedrive\área de trabalho\projetopac\jogopacman\inimigolaranja.cpp
+	"inimigoLaranja.h"
+
+1658253954 c:\users\camil\onedrive\área de trabalho\projetopac\jogopacman\inimigolaranja.h
+	<allegro5/allegro5.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"classePacman.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\allegro5.h
+	"allegro.h"
+
+1658241552 source:c:\users\camil\onedrive\área de trabalho\projetopac\jogopacman\inimigorosa.cpp
+	"inimigoRosa.h"
+
+1658241608 c:\users\camil\onedrive\área de trabalho\projetopac\jogopacman\inimigorosa.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<iostream>
+	"classePacman.h"
+
+1658537815 source:c:\users\camil\onedrive\área de trabalho\projetopac\jogopacman\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"classePirula.h"
+	"classeTijolos.h"
+	"classePacman.h"
+	"classeInimigoVermelho.h"
+	"inimigoAzul.h"
+	"inimigoRosa.h"
+	"inimigoLaranja.h"
+	<time.h>
+	<string>
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1615199858 c:\users\camil\onedrive\área de trabalho\projetopac\allegroarquivos\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1658268230 source:c:\users\eliez\desktop\projetopac\jogopacman\classeinimigovermelho.cpp
+	"classeInimigoVermelho.h"
+
+1658535454 c:\users\eliez\desktop\projetopac\jogopacman\classeinimigovermelho.h
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"classePacman.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\platform\alplatf.h
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\platform\alandroidcfg.h
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\platform\alunix.h
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+	<limits.h>
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\color.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\config.h
+	"allegro5/file.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\error.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\keycodes.h
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\alcompat.h
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1658535454 c:\users\eliez\desktop\projetopac\jogopacman\classepacman.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+
+1658535454 source:c:\users\eliez\desktop\projetopac\jogopacman\classepacman.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+	"classePacman.h"
+
+1657591730 source:c:\users\eliez\desktop\projetopac\jogopacman\classepirula.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+	"classePirula.h"
+
+1657591730 c:\users\eliez\desktop\projetopac\jogopacman\classepirula.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+
+1657591214 source:c:\users\eliez\desktop\projetopac\jogopacman\classetijolos.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+	"classeTijolos.h"
+
+1657590912 c:\users\eliez\desktop\projetopac\jogopacman\classetijolos.h
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+
+1658269662 source:c:\users\eliez\desktop\projetopac\jogopacman\inimigoazul.cpp
+	"inimigoAzul.h"
+
+1658269662 c:\users\eliez\desktop\projetopac\jogopacman\inimigoazul.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<iostream>
+	"classePacman.h"
+
+1658253954 source:c:\users\eliez\desktop\projetopac\jogopacman\inimigolaranja.cpp
+	"inimigoLaranja.h"
+
+1658253954 c:\users\eliez\desktop\projetopac\jogopacman\inimigolaranja.h
+	<allegro5/allegro5.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"classePacman.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\allegro5.h
+	"allegro.h"
+
+1658241552 source:c:\users\eliez\desktop\projetopac\jogopacman\inimigorosa.cpp
+	"inimigoRosa.h"
+
+1658241608 c:\users\eliez\desktop\projetopac\jogopacman\inimigorosa.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<iostream>
+	"classePacman.h"
+
+1658801508 source:c:\users\eliez\desktop\projetopac\jogopacman\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"classePirula.h"
+	"classeTijolos.h"
+	"classePacman.h"
+	"classeInimigoVermelho.h"
+	"inimigoAzul.h"
+	"inimigoRosa.h"
+	"inimigoLaranja.h"
+	<time.h>
+	<string>
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1615199858 c:\users\eliez\desktop\projetopac\allegroarquivos\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1658268230 source:c:\users\eliez\documents\ufv\projetopac\jogopacman\classeinimigovermelho.cpp
+	"classeInimigoVermelho.h"
+
+1658535454 c:\users\eliez\documents\ufv\projetopac\jogopacman\classeinimigovermelho.h
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"classePacman.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\platform\alplatf.h
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\platform\alandroidcfg.h
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\platform\alunix.h
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+	<limits.h>
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\color.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\config.h
+	"allegro5/file.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\error.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\keycodes.h
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\alcompat.h
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1658535454 c:\users\eliez\documents\ufv\projetopac\jogopacman\classepacman.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+
+1658535454 source:c:\users\eliez\documents\ufv\projetopac\jogopacman\classepacman.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+	"classePacman.h"
+
+1657591730 source:c:\users\eliez\documents\ufv\projetopac\jogopacman\classepirula.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+	"classePirula.h"
+
+1657591730 c:\users\eliez\documents\ufv\projetopac\jogopacman\classepirula.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+
+1657591214 source:c:\users\eliez\documents\ufv\projetopac\jogopacman\classetijolos.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+	"classeTijolos.h"
+
+1657590912 c:\users\eliez\documents\ufv\projetopac\jogopacman\classetijolos.h
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	<iostream>
+
+1658269662 source:c:\users\eliez\documents\ufv\projetopac\jogopacman\inimigoazul.cpp
+	"inimigoAzul.h"
+
+1658269662 c:\users\eliez\documents\ufv\projetopac\jogopacman\inimigoazul.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<iostream>
+	"classePacman.h"
+
+1658253954 source:c:\users\eliez\documents\ufv\projetopac\jogopacman\inimigolaranja.cpp
+	"inimigoLaranja.h"
+
+1658253954 c:\users\eliez\documents\ufv\projetopac\jogopacman\inimigolaranja.h
+	<allegro5/allegro5.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"classePacman.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\allegro5.h
+	"allegro.h"
+
+1658241552 source:c:\users\eliez\documents\ufv\projetopac\jogopacman\inimigorosa.cpp
+	"inimigoRosa.h"
+
+1658241608 c:\users\eliez\documents\ufv\projetopac\jogopacman\inimigorosa.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<iostream>
+	"classePacman.h"
+
+1659034766 source:c:\users\eliez\documents\ufv\projetopac\jogopacman\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"classePirula.h"
+	"classeTijolos.h"
+	"classePacman.h"
+	"classeInimigoVermelho.h"
+	"inimigoAzul.h"
+	"inimigoRosa.h"
+	"inimigoLaranja.h"
+	<time.h>
+	<string>
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1615199858 c:\users\eliez\documents\ufv\projetopac\allegroarquivos\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
