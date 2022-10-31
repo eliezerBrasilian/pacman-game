@@ -7,3 +7,4 @@ Neste jogo você deve desviar dos inimigos e comer todas as frutas para ganhar o
 
 https://user-images.githubusercontent.com/93846923/198922653-bc65defa-f7b0-4ade-977a-c039c5e92c56.mp4
 
+# Video Completo de: Eu explicando o projeto.
